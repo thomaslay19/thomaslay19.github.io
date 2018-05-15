@@ -1,0 +1,350 @@
+Question 1
+After collecting three chests, you need to answer a question to open them. The answer to this one is A.
+
+
+
+
+65
+Question 2
+1, 2, 3, 5: where does 4 go?
+after 1
+after 2
+after 3
+after 5
+67
+Question 3
+1, 3, 5, 7: where does 6 go?
+after 1
+after 2
+after 3
+after 5
+68
+Question 4
+1, 2, 3, 4: where does 1 and 1/2 go?
+after 1
+after 2
+after 3
+after 4
+65
+Question 5
+1, 2, 3, 4: where does 2 and 1/4 go?
+after 1
+after 2
+after 3
+after 4
+66
+Question 6
+1, 2, 3, 4: where does 4 and 3/4 go?
+after 1
+after 2
+after 3
+after 4
+68
+Question 7
+1, 3, 5, 7: where does 4 and 3/4 go?
+after 1
+after 3
+after 5
+after 7
+66
+Question 8
+2, 4, 6, 8: where does 2 and 1/8 go?
+after 2
+after 4
+after 6
+after 8
+65
+Question 9
+0, 1/2, 1, 1 and 1/2: where does 3/4 go?
+after 0
+after 1/2
+after 1
+after 1 and 1/2
+66
+Question 10
+0, 1/2, 1, 1 and 1/2: where does 1 and 1/4 go?
+after 0
+after 1/2
+after 1
+after 1 and 1/2
+67
+Question 11
+1/4, 3/4, 1, 1 and 1/4: where does 1/2 go?
+after 1/4
+after 3/4
+after 1
+after 1 and 1/4
+65
+Question 12
+1/2, 1, 1 and 1/2, 2: where does 1 and 3/4 go?
+after 1/2
+after 1
+after 1 and 1/2
+after 2
+67
+Question 13
+0, 1, 2, 3: where does 1/2 go?
+after 0
+after 1
+after 2
+after 3
+65
+Question 14
+1/4, 3/4, 1 and 1/4, 1 and 3/4: where does 1 and 1/2 go?
+after 1/4
+after 3/4
+after 1 and 1/4
+after 1 and 3/4
+67
+Question 15
+0, 1/4, 1/2, 3/4: where does 1/8 go?
+after 0
+after 1/4
+after 1/2
+after 3/4
+65
+Question 16
+0, 1/4, 1/2, 3/4: where does 7/8 go?
+after 0
+after 1/4
+after 1/2
+after 3/4
+68
+Question 17
+0, 1/2, 1, 1 and 1/2: where does 5/8 go?
+after 0
+after 1/2
+after 1
+after 1 and 1/2
+66
+Question 18
+1/2, 1, 1 and 1/2, 2: where does 1 and 7/8 go?
+after 1/2
+after 1
+after 1 and 1/2
+after 2
+67
+Question 19
+1/8, 3/8, 5/8, 7/8: where does 1/4 go?
+after 1/8
+after 3/8
+after 5/8
+after 7/8
+65
+Question 20
+1/8, 5/8, 1 and 1/8, 1 and 5/8: where does 1 and 1/2 go?
+after 1/8
+after 5/8
+after 1 and 1/8
+after 1 and 5/8
+67
+Question 21
+
+
+
+
+
+
+Question 22
+
+
+
+
+
+
+Question 23
+
+
+
+
+
+
+Question 24
+
+
+
+
+
+
+Question 25
+
+
+
+
+
+
+Question 26
+
+
+
+
+
+
+Question 27
+
+
+
+
+
+
+Question 28
+
+
+
+
+
+
+Question 29
+
+
+
+
+
+
+Question 30
+
+
+
+
+
+
+Question 31
+
+
+
+
+
+
+Question 32
+
+
+
+
+
+
+Question 33
+
+
+
+
+
+
+Question 34
+
+
+
+
+
+
+Question 35
+
+
+
+
+
+
+Question 36
+
+
+
+
+
+
+Question 37
+
+
+
+
+
+
+Question 38
+
+
+
+
+
+
+Question 39
+
+
+
+
+
+
+Question 40
+
+
+
+
+
+
+Question 41
+
+
+
+
+
+
+Question 42
+
+
+
+
+
+
+Question 43
+
+
+
+
+
+
+Question 44
+
+
+
+
+
+
+Question 45
+
+
+
+
+
+
+Question 46
+
+
+
+
+
+
+Question 47
+
+
+
+
+
+
+Question 48
+
+
+
+
+
+
+Question 49
+
+
+
+
+
+
+Question 50
+
+
+
+
+
+
